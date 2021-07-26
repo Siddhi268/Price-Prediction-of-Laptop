@@ -1,0 +1,710 @@
+Price,Rating,graphic_card,Company,touchscreen,Gen_type,Ram_in_gb,Disk_drive,Processor_Name,processor_type,Operating_System
+49990,4.4,Yes,Acer,No,9,8,SSD,Intel,i5,Windows 10
+33990,4.2,No,HP,No,Not Mentioned,8,HDD,AMD,Ryzen 3,Windows 10
+27990,4.2,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+36990,4.7,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 3,Windows 10
+63990,4.5,Yes,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+25990,4.1,No,Acer,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+43990,4.4,No,HP,No,3,8,Both,AMD,Ryzen 5,Windows 10
+49990,4.2,Yes,HP,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+35990,4.2,No,HP,No,10,8,SSD,Intel,i3,Windows 10
+25990,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+46990,4.5,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+54990,4.5,Yes,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+39990,4.4,No,HP,No,Not Mentioned,8,Both,AMD,Ryzen 3,Windows 10
+46990,4.4,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+25990,4.0,No,HP,No,Not Mentioned,8,SSD,Intel,Celeron,Windows 10
+49990,4.3,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+56990,5.0,No,Lenovo,Yes,4,8,SSD,AMD,Ryzen 5,Windows 10
+47990,4.4,No,HP,Yes,10,8,SSD,Intel,i3,Windows 10
+41999,4.3,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+55990,4.5,Yes,Acer,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+22990,4.0,No,HP,No,Not Mentioned,4,HDD,AMD,Not Metioned,Windows 10
+41990,3.9,No,HP,No,10,8,Both,Intel,i3,Windows 10
+57990,4.5,Yes,Lenovo,No,9,8,Both,Intel,i5,Windows 10
+36990,4.2,No,HP,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+52990,4.5,Yes,MSI,No,9,8,SSD,Intel,i5,Windows 10
+49890,4.5,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+32990,4.1,No,Lenovo,No,10,4,SSD,Intel,i3,Windows 10
+39990,4.4,No,MSI,No,10,8,SSD,Intel,i3,Windows 10
+61990,5.0,Yes,HP,No,10,8,SSD,Intel,i5,Windows 10
+57990,4.2,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+44999,4.3,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+50890,4.5,Yes,Acer,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+25990,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,APU,Windows 10
+52990,4.4,Yes,MSI,No,9,8,SSD,Intel,i5,Windows 10
+36790,4.2,No,Dell,No,Not Mentioned,4,Both,AMD,Ryzen 3,Windows 10
+25690,3.9,No,HP,No,Not Mentioned,4,HDD,AMD,Athlon,Windows 10
+34990,4.8,No,Lenovo,No,10,8,SSD,Intel,i3,Windows 10
+61874,4.4,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+60990,4.9,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+31490,4.4,No,Dell,No,Not Mentioned,4,SSD,Intel,Pentium,Windows 10
+25990,3.9,No,HP,No,Not Mentioned,4,HDD,Not Metioned,Not Metioned,Windows 10
+109990,4.8,No,Apple,No,Not Mentioned,8,SSD,Not Metioned,Not Metioned,Mac
+49990,4.5,No,Lenovo,No,5,8,SSD,AMD,Ryzen 5,Windows 10
+114990,4.8,No,Apple,No,Not Mentioned,8,SSD,Not Metioned,Not Metioned,Mac
+40990,4.0,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+44990,4.4,No,HP,Yes,10,8,SSD,Intel,i3,Windows 10
+60990,4.2,Yes,HP,No,10,8,Both,Intel,i5,Windows 10
+46990,4.1,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+53990,4.4,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+58990,4.9,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+35990,4.4,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 3,Windows 10
+20990,3.9,No,Asus,No,Not Mentioned,4,HDD,Intel,Celeron,Windows 10
+61990,4.4,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+74990,4.7,No,Apple,No,5,8,SSD,Intel,i5,Mac
+37990,4.2,No,HP,No,10,8,SSD,Intel,i3,Windows 10
+43990,4.0,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+23990,4.0,No,HP,No,Not Mentioned,4,HDD,Intel,Celeron,Windows 10
+48990,4.3,No,HP,Yes,10,8,SSD,Intel,i3,Windows 10
+71990,4.6,Yes,MSI,No,9,16,SSD,Intel,i5,Windows 10
+49999,4.4,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+32990,4.204958677685946,No,Acer,No,10,4,SSD,Intel,i3,Windows 10
+43990,4.4,No,Lenovo,Yes,10,4,SSD,Intel,i3,Windows 10
+57990,4.5,No,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+61990,4.5,No,Lenovo,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+72990,4.3,Yes,Lenovo,No,10,8,Both,Intel,i7,Windows 10
+54990,4.5,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+39990,4.204958677685946,No,Asus,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+78890,4.3,No,MICROSOFT,Yes,10,8,SSD,Intel,i5,Windows 10
+61990,4.4,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+64890,4.5,Yes,MSI,No,9,8,SSD,Intel,i7,Windows 10
+84990,4.5,Yes,Asus,No,10,16,SSD,Intel,i7,Windows 10
+40990,4.5,No,Lenovo,No,10,4,SSD,Intel,i3,Windows 10
+69990,4.6,No,HP,Yes,10,8,SSD,Intel,i7,Windows 10
+52990,4.3,No,Asus,No,10,8,Both,Intel,i5,Windows 10
+56490,4.5,No,HP,No,10,8,Both,Intel,i5,Windows 10
+69990,4.6,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+44990,4.0,No,Asus,No,10,8,HDD,Intel,i5,Windows 10
+41790,4.204958677685946,No,Dell,No,10,4,SSD,Intel,i3,Windows 10
+96990,4.5,No,Apple,No,8,8,SSD,Intel,i5,Mac
+69990,4.3,No,Dell,Yes,10,8,SSD,Intel,i5,Windows 10
+88990,4.3,Yes,Dell,No,10,16,Both,Intel,i7,Windows 10
+22990,4.0,No,Acer,No,Not Mentioned,4,HDD,Not Metioned,Not Metioned,Windows 10
+55491,4.4,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+89890,4.5,Yes,MSI,No,9,16,SSD,Intel,i7,Windows 10
+58990,5.0,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+92990,4.5,Yes,Asus,No,10,16,SSD,Intel,i7,Windows 10
+57890,4.5,No,Dell,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+34990,4.204958677685946,No,Dell,No,Not Mentioned,8,HDD,AMD,Ryzen 3,Windows 10
+69990,4.3,Yes,Asus,No,9,16,SSD,Intel,i7,Windows 10
+44999,4.3,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+42990,3.9,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+59990,4.4,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+31490,4.0,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+54890,4.6,No,Nokia,No,10,8,SSD,Intel,i5,Windows 10
+65990,4.204958677685946,Yes,Lenovo,No,9,8,Both,Intel,i7,Windows 10
+69890,4.5,Yes,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+38350,4.1,No,Dell,No,10,8,HDD,Intel,i3,Windows 10
+56990,4.5,No,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+76990,4.4,Yes,Asus,No,9,8,SSD,Intel,i5,Windows 10
+41990,4.7,No,HP,No,10,8,SSD,Intel,i3,Windows 10
+50990,4.204958677685946,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+57990,4.5,No,Lenovo,Yes,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+62990,4.2,No,HP,No,10,16,SSD,Intel,i5,Windows 10
+69990,4.6,Yes,HP,Yes,8,8,Both,Intel,i7,Windows 10
+54990,4.4,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+49990,4.2,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+52990,4.4,Yes,Acer,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+63990,4.5,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+59990,4.4,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+28990,3.9,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+57199,4.1,No,Dell,No,10,4,Both,Intel,i5,Windows 10
+37990,4.1,No,HP,No,10,8,HDD,Intel,i3,Windows 10
+63990,4.4,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+37490,4.4,No,Lenovo,No,10,4,SSD,Intel,i3,DOS
+87990,5.0,Yes,Lenovo,No,10,16,SSD,Intel,i7,Windows 10
+61390,4.4,Yes,Dell,No,10,8,SSD,Intel,i5,Windows 10
+47990,4.3,No,Lenovo,No,10,8,SSD,Intel,i3,Windows 10
+32990,4.3,No,Lenovo,No,10,8,HDD,Intel,i3,Windows 10
+46990,4.5,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+34490,3.9,No,Dell,No,10,4,HDD,Intel,i3,Windows 10
+54990,4.9,No,Dell,Yes,10,4,SSD,Intel,i3,Windows 10
+44990,3.8,No,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+36490,3.9,No,HP,No,10,4,HDD,Intel,i3,Windows 10
+133990,4.7,No,Apple,No,Not Mentioned,8,SSD,Not Metioned,Not Metioned,Mac
+52990,4.204958677685946,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+56690,4.204958677685946,No,Dell,Yes,10,8,SSD,Intel,i3,Windows 10
+49990,3.4,Yes,MSI,No,9,8,HDD,Intel,i5,Windows 10
+64490,4.4,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+77990,4.3,Yes,Dell,No,10,8,SSD,Intel,i7,Windows 10
+89990,4.3,No,Lenovo,No,10,16,SSD,Intel,i7,Windows 10
+89990,4.6,Yes,Acer,No,10,16,Both,Intel,i5,Windows 10
+59990,4.5,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+71990,4.204958677685946,Yes,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+32990,4.204958677685946,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+64988,4.3,Yes,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+59990,4.4,No,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+65999,4.5,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+48990,4.1,Yes,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+33990,3.9,No,Acer,No,10,4,HDD,Intel,i3,Windows 10
+47990,4.7,No,MSI,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+37890,4.3,No,Acer,No,10,4,SSD,Intel,i3,Windows 10
+114990,4.204958677685946,Yes,Asus,No,Not Mentioned,16,SSD,AMD,Not Metioned,Windows 10
+52990,3.9,No,HP,No,10,8,SSD,Intel,i5,Windows 10
+96890,4.2,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+55990,4.5,No,Dell,Yes,10,4,Both,Intel,i3,Windows 10
+36490,4.204958677685946,No,Dell,No,Not Mentioned,8,HDD,AMD,Ryzen 3,Windows 10
+39990,4.4,No,HP,Yes,10,4,Not Metioned,Intel,i3,Mac
+112890,4.4,Yes,Asus,No,10,16,SSD,Intel,i7,Windows 10
+43990,4.0,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+72990,4.6,No,HP,No,10,8,SSD,Intel,i7,Windows 10
+64990,4.5,Yes,Acer,No,10,8,SSD,Intel,i5,Windows 10
+54890,4.4,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+78990,4.7,No,Lenovo,Yes,Not Mentioned,16,SSD,AMD,Ryzen 7,Windows 10
+56990,4.6,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+54990,4.204958677685946,No,Acer,No,10,16,SSD,Intel,i5,Windows 10
+59990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+99990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+58990,4.204958677685946,No,HP,No,10,8,SSD,Intel,i5,Windows 10
+59990,4.4,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+73990,4.6,No,HP,Yes,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+89990,4.6,No,MICROSOFT,Yes,10,8,SSD,Intel,i5,Windows 10
+99890,4.204958677685946,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+41989,4.8,No,Asus,No,10,4,SSD,Intel,i3,Windows 10
+133990,4.7,No,Apple,No,Not Mentioned,8,SSD,Not Metioned,Not Metioned,Mac
+38990,4.5,No,MSI,No,10,8,SSD,Intel,i3,Windows 10
+27990,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+174900,4.8,No,Apple,No,10,16,SSD,Intel,i5,Mac
+174990,5.0,Yes,ALIENWARE,No,10,16,SSD,Intel,i7,Windows 10
+159990,4.7,No,Apple,No,10,16,SSD,Intel,i5,Mac
+99990,4.4,No,Apple,No,10,8,SSD,Intel,i5,Mac
+159990,4.204958677685946,Yes,Asus,Yes,9,32,SSD,Intel,i7,Windows 10
+99990,4.4,No,Apple,No,10,8,SSD,Intel,i5,Mac
+174900,4.7,No,Apple,No,10,16,SSD,Intel,i5,Mac
+59890,4.5,No,LG,No,10,8,SSD,Intel,i5,Windows 10
+30990,3.9,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+82190,4.204958677685946,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+42990,4.204958677685946,No,Lenovo,No,10,4,SSD,Intel,i3,Windows 10
+38490,4.204958677685946,No,Acer,No,10,8,HDD,Intel,i3,Windows 10
+62190,4.204958677685946,Yes,Dell,No,10,8,Both,Intel,i5,Windows 10
+41990,4.204958677685946,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+46990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+179990,4.2,No,HP,Yes,10,16,SSD,Intel,i7,Windows 10
+33690,3.3,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 3,Windows 10
+46990,4.3,No,Asus,Yes,10,4,SSD,Intel,i3,Windows 10
+24990,3.8,No,HP,Yes,Not Mentioned,4,Not Metioned,Intel,Celeron,Mac
+150490,4.5,Yes,Acer,No,10,16,SSD,Intel,i7,Windows 10
+38990,4.1,No,HP,No,10,8,HDD,Intel,i3,Windows 10
+72890,4.6,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+109990,4.5,Yes,MSI,No,10,16,Both,Intel,i7,Windows 10
+53990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+38990,4.204958677685946,No,Acer,No,10,8,SSD,Intel,i3,Windows 10
+79990,4.204958677685946,No,Lenovo,No,10,8,Both,Intel,i7,Windows 10
+99990,4.5,Yes,Asus,No,10,16,SSD,Intel,i7,Windows 10
+87990,4.2,No,Lenovo,Yes,10,16,SSD,Intel,i7,Windows 10
+66990,4.4,Yes,Acer,No,10,8,Both,Intel,i5,Windows 10
+139990,4.4,Yes,MSI,No,10,32,Both,Intel,i7,Windows 10
+207890,5.0,Yes,Dell,No,10,16,SSD,Intel,i9,Windows 10
+72990,4.4,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+49990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i3,Windows 10
+52490,3.4,No,Dell,Yes,10,4,SSD,Intel,i3,Windows 10
+99990,4.5,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+59990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+36990,4.7,No,MSI,No,10,8,SSD,Intel,i3,Windows 10
+59999,4.4,Yes,Asus,No,10,8,SSD,Intel,i7,Windows 10
+57990,4.2,Yes,HP,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+68990,4.204958677685946,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+154990,4.204958677685946,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+62990,4.204958677685946,Yes,Acer,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+67490,3.7,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+40999,4.2,No,Dell,No,10,4,SSD,Intel,i3,Windows 10
+124990,5.0,Yes,Asus,No,10,16,SSD,Intel,i7,Windows 10
+96990,4.3,Yes,MSI,No,10,16,Both,Intel,i7,Windows 10
+34890,4.0,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 5,DOS
+45990,4.4,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+194990,4.204958677685946,Yes,MSI,No,10,32,SSD,Intel,i7,Windows 10
+44488,4.2,No,Lenovo,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+106990,4.6,Yes,Acer,No,10,16,Both,Intel,i7,Windows 10
+61990,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+72858,4.5,Yes,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+74910,4.0,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+74990,4.6,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+74990,4.204958677685946,Yes,Acer,No,8,8,SSD,Intel,i5,Windows 10
+24990,3.7,No,HP,Yes,Not Mentioned,4,Not Metioned,Intel,Celeron,Mac
+79990,4.5,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+195902,4.7,Yes,Apple,No,9,16,SSD,Intel,i7,Mac
+119990,4.204958677685946,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+55990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+86990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+28490,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,DOS
+70999,4.2,Yes,Dell,No,8,8,SSD,Intel,i7,Windows 10
+224900,4.4,Yes,Apple,No,9,16,SSD,Intel,i9,Mac
+69298,4.204958677685946,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+37990,4.3,No,Asus,No,10,4,SSD,Intel,i3,Windows 10
+34990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+45490,4.3,No,HP,No,10,8,SSD,Intel,i3,Windows 10
+169990,4.204958677685946,Yes,Asus,No,9,24,SSD,Intel,i7,Windows 10
+69990,4.5,No,Asus,No,8,8,SSD,Intel,i7,Windows 10
+59990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+75990,4.7,No,LG,No,10,8,SSD,Intel,i5,Windows 10
+62890,5.0,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+62890,5.0,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+239990,4.204958677685946,Yes,Asus,No,10,32,SSD,Intel,i9,Windows 10
+59890,4.6,Yes,Asus,No,9,8,Both,Intel,i5,Windows 10
+52990,4.2,No,Avita,No,10,8,SSD,Intel,i5,Windows 10
+44890,4.204958677685946,No,Asus,No,10,4,SSD,Intel,i3,Windows 10
+68990,4.4,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+60990,4.204958677685946,No,Asus,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+105990,4.4,No,Apple,No,10,8,SSD,Intel,i5,Mac
+200890,4.204958677685946,Yes,Dell,Yes,10,16,SSD,Intel,i7,Windows 10
+57978,4.204958677685946,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+79990,4.2,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+47990,4.4,No,MSI,No,10,8,SSD,Intel,i5,Windows 10
+69990,4.5,No,Acer,No,7,8,SSD,Intel,i5,Windows 10
+114990,4.204958677685946,No,Dell,No,8,16,SSD,Intel,i7,Windows 10
+54990,4.204958677685946,No,Acer,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+129990,4.1,Yes,HP,No,10,16,SSD,Intel,i7,Windows 10
+38990,3.5,No,Acer,No,10,4,HDD,Intel,i3,Windows 10
+92990,4.0,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+52820,4.2,No,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+83490,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i5,Windows 10
+83990,4.8,Yes,HP,No,10,8,Both,Intel,i5,Windows 10
+224900,4.7,Yes,Apple,No,9,16,SSD,Intel,i9,Mac
+165990,4.4,No,Apple,No,8,8,SSD,Intel,i5,Mac
+69990,4.5,No,Asus,No,8,8,SSD,Intel,i7,Windows 10
+26990,3.8,No,Asus,No,Not Mentioned,4,HDD,AMD,Athlon,Windows 10
+299990,4.9,Yes,ALIENWARE,No,10,32,SSD,Intel,i9,Windows 10
+142567,4.204958677685946,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+36990,3.8,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 5,Windows 10
+79990,4.9,Yes,MSI,No,10,8,SSD,Intel,i7,Windows 10
+27990,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Athlon,Windows 10
+79990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+21990,4.2,No,HP,Yes,Not Mentioned,4,Not Metioned,Not Metioned,Not Metioned,Mac
+244990,4.204958677685946,Yes,MSI,No,10,32,SSD,Intel,i9,Windows 10
+46890,4.204958677685946,No,Asus,No,10,4,HDD,Intel,i5,Windows 10
+67990,4.5,Yes,HP,No,10,16,SSD,Intel,i5,Windows 10
+129703,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i7,Windows 10
+112040,4.5,No,HP,No,8,8,SSD,Intel,i5,Mac
+80990,4.5,No,HP,Yes,10,8,SSD,Intel,i7,Windows 10
+151999,4.204958677685946,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+269990,4.204958677685946,Yes,Asus,Yes,10,32,SSD,Intel,i9,Windows 10
+30990,3.8,No,Lenovo,No,10,4,HDD,Intel,i3,DOS
+43990,4.204958677685946,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 5,Windows 10
+105990,5.0,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+72990,4.5,Yes,MSI,No,Not Mentioned,16,SSD,AMD,Ryzen 5,Windows 10
+189990,4.8,Yes,MSI,No,8,16,SSD,Intel,i7,Windows 10
+76990,4.204958677685946,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+159990,4.9,Yes,ALIENWARE,No,10,16,SSD,Intel,i7,Windows 10
+58998,4.204958677685946,No,Lenovo,Yes,10,8,SSD,AMD,Ryzen 5,Windows 10
+160090,3.7,Yes,Acer,No,10,16,SSD,Intel,i7,Windows 10
+224990,4.204958677685946,Yes,Asus,Yes,10,32,SSD,Intel,i7,Windows 10
+79990,3.0,Yes,Asus,No,7,8,Both,Intel,i7,Windows 10
+149990,4.1,Yes,MSI,No,8,16,SSD,Intel,i7,Windows 10
+42990,4.204958677685946,No,Acer,No,8,8,HDD,Intel,i7,Windows 10
+54990,4.3,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+46990,3.9,No,Dell,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+64990,3.8,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+243990,4.0,Yes,ALIENWARE,No,10,16,SSD,Intel,i7,Windows 10
+75990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+224990,4.204958677685946,Yes,Asus,No,10,32,SSD,Intel,i7,Windows 10
+43590,4.204958677685946,No,Asus,No,10,8,Both,Intel,i3,Windows 10
+47990,4.0,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+69990,4.4,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+64990,4.204958677685946,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+73490,4.5,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+121990,4.6,Yes,HP,No,Not Mentioned,16,SSD,AMD,Ryzen 7,Windows 10
+162990,3.3,No,HP,Yes,10,16,SSD,Intel,i7,Windows 10
+72999,4.204958677685946,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+204990,5.0,Yes,Asus,Yes,8,16,SSD,Intel,i9,Windows 10
+98912,4.204958677685946,No,Asus,No,8,8,Both,Intel,i7,Windows 10
+239990,4.204958677685946,Yes,MSI,No,10,32,Both,Intel,i9,Windows 10
+56990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+50990,4.8,No,Asus,Yes,Not Mentioned,4,SSD,AMD,Ryzen 3,Windows 10
+126000,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+199900,4.3,Yes,Apple,No,8,16,SSD,Intel,i9,Mac
+109990,4.6,Yes,Acer,No,10,16,Both,Intel,i7,Windows 10
+46990,4.2,Yes,Lenovo,No,8,8,HDD,Intel,i5,Windows 10
+156990,4.204958677685946,Yes,MSI,Yes,10,16,SSD,Intel,i7,Windows 10
+264990,4.204958677685946,Yes,MSI,No,10,32,SSD,Intel,i7,Windows 10
+209990,4.204958677685946,Yes,ALIENWARE,No,9,16,Both,Intel,i7,Windows 10
+127990,5.0,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+74990,4.5,No,Lenovo,No,8,8,SSD,Intel,i5,Windows 10
+159990,4.204958677685946,Yes,MSI,No,10,16,Both,Intel,i7,Windows 10
+46990,4.1,Yes,Lenovo,No,9,8,HDD,Intel,i5,Windows 10
+96490,4.204958677685946,Yes,HP,No,10,8,SSD,Intel,i5,Windows 10
+54990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+102990,5.0,Yes,Asus,No,7,16,Both,Intel,i7,Windows 10
+69990,4.8,No,LG,No,8,8,SSD,Intel,i5,Windows 10
+210520,4.204958677685946,Yes,HP,Yes,10,16,SSD,Intel,i5,Windows 10
+60990,4.4,Yes,MSI,No,8,8,HDD,Intel,i5,Windows 10
+65990,4.5,Yes,Acer,No,7,8,Both,Intel,i5,Windows 10
+49990,3.9,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+33990,3.7,No,Dell,No,10,4,HDD,Intel,i3,Windows 10
+103990,4.204958677685946,Yes,Acer,No,8,16,SSD,Intel,i5,Windows 10
+81890,4.0,Yes,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+85990,4.5,No,Asus,No,8,8,SSD,Intel,i7,Windows 10
+50975,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+184990,3.8,Yes,Lenovo,No,10,16,SSD,Intel,i7,Windows 10
+95990,4.204958677685946,Yes,MSI,No,7,8,HDD,Intel,i7,Windows 10
+45990,4.4,No,HP,No,10,8,SSD,Intel,i3,Windows 10
+84990,4.0,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+69890,4.2,No,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+167890,4.204958677685946,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+33270,3.9,No,Asus,No,Not Mentioned,4,HDD,AMD,APU,Windows 10
+39402,4.1,No,Dell,No,10,8,HDD,Intel,i3,Windows 10
+97990,4.204958677685946,No,Nexstgo,No,8,16,SSD,Intel,i5,Windows 10
+64990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+145990,4.2,Yes,MSI,No,7,16,Both,Intel,i7,Windows 10
+158990,4.204958677685946,Yes,MSI,No,8,16,Both,Intel,i7,Windows 10
+115990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+44990,4.3,No,Vaio,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+54990,4.204958677685946,No,HP,Yes,10,8,SSD,Intel,i3,Windows 10
+34990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+62890,4.0,No,Vaio,No,8,8,SSD,Intel,i5,Windows 10
+54990,4.1,No,Acer,No,8,8,HDD,Intel,i5,Windows 10
+64990,4.5,No,Asus,No,8,8,SSD,Intel,i7,Windows 10
+167990,4.204958677685946,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+174900,4.5,No,Apple,No,10,16,SSD,Intel,i5,Mac
+129990,4.6,No,Apple,No,8,8,SSD,Intel,i5,Mac
+52490,3.8,No,Lenovo,No,4,8,HDD,Intel,i5,Windows 8
+48990,4.1,No,Acer,No,10,8,HDD,Intel,i5,Windows 10
+204990,4.204958677685946,Yes,ALIENWARE,No,9,16,SSD,Intel,i7,Windows 10
+99990,4.204958677685946,Yes,Asus,No,10,16,SSD,Intel,i5,Windows 10
+67990,4.1,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+179990,4.204958677685946,Yes,Acer,No,7,16,Both,Intel,i7,Windows 10
+74990,4.204958677685946,Yes,HP,No,10,8,SSD,Intel,i5,Windows 10
+60990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+52490,3.8,No,Lenovo,No,4,8,HDD,Intel,i5,Windows 8
+48990,4.1,No,Acer,No,10,8,HDD,Intel,i5,Windows 10
+154990,4.204958677685946,Yes,Asus,No,Not Mentioned,16,SSD,AMD,Not Metioned,Windows 10
+75990,4.4,Yes,Dell,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+159990,4.8,Yes,MSI,No,8,16,Both,Intel,i7,Windows 10
+61890,4.3,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+99990,5.0,Yes,HP,No,10,16,SSD,Intel,i5,Windows 10
+53999,4.204958677685946,No,HP,No,10,8,HDD,Intel,i5,Windows 10
+41290,4.5,No,Asus,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+99990,4.204958677685946,Yes,HP,No,7,8,Both,Intel,i5,Windows 10
+57990,4.204958677685946,No,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+34990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+179990,4.204958677685946,Yes,Acer,No,6,16,Both,Intel,i7,Windows 10
+59990,4.5,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+93990,4.204958677685946,Yes,Asus,No,10,8,HDD,Intel,i7,Windows 10
+83999,4.204958677685946,No,Lenovo,Yes,10,8,SSD,Intel,i5,Windows 10
+43490,4.204958677685946,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 5,Windows 10
+57199,4.1,No,Dell,No,10,4,Both,Intel,i5,Windows 10
+53490,4.2,No,HP,No,10,8,HDD,Intel,i5,Windows 10
+86990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+44990,4.204958677685946,No,Asus,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+254990,4.204958677685946,Yes,MSI,No,10,32,SSD,Intel,i7,Windows 10
+49990,4.1,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+54990,4.204958677685946,No,Acer,Yes,10,8,SSD,Intel,i3,Windows 10
+103790,3.6,Yes,Dell,No,10,16,SSD,Intel,i7,Windows 10
+29990,3.9,No,Lenovo,No,7,4,HDD,Intel,i3,Windows 10
+151133,4.204958677685946,No,HP,Yes,8,8,SSD,Intel,i5,Windows 10
+229998,4.204958677685946,Yes,Lenovo,No,10,16,SSD,Intel,i7,Windows 10
+53800,4.204958677685946,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+132790,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+88990,4.2,Yes,Asus,No,8,8,Both,Intel,i5,Windows 10
+52990,4.0,Yes,Lenovo,No,7,8,HDD,Intel,i5,Windows 10
+89990,4.2,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+104990,4.3,No,Asus,No,8,16,SSD,Intel,i7,Windows 10
+117990,4.7,No,MICROSOFT,Yes,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+64990,4.1,No,lenovo,Yes,10,8,SSD,Intel,i5,Windows 10
+69290,4.204958677685946,Yes,Asus,No,10,8,HDD,Intel,i5,DOS
+79990,4.204958677685946,Yes,Dell,No,8,8,Both,Intel,i5,Windows 10
+99990,4.204958677685946,Yes,HP,No,7,8,Both,Intel,i5,Windows 10
+39990,4.204958677685946,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+88049,4.204958677685946,No,Dell,Yes,10,8,SSD,Intel,i5,Windows 10
+83990,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i5,Windows 10
+89990,4.3,Yes,Dell,No,Not Mentioned,16,SSD,AMD,Ryzen 7,Windows 10
+51475,4.204958677685946,No,Asus,No,10,8,Both,Intel,i5,Windows 10
+95695,4.204958677685946,No,Lenovo,No,8,8,SSD,Intel,i7,Windows 10
+57490,3.7,Yes,HP,No,10,8,HDD,Intel,i5,Windows 10
+28990,3.7,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+36990,4.1,No,Avita,No,10,8,SSD,Intel,i5,Windows 10
+55990,3.5,No,Dell,Yes,10,4,SSD,Intel,i3,Windows 10
+76990,3.3,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+233990,4.204958677685946,No,Asus,No,10,16,SSD,Intel,i7,Windows 10
+71990,4.4,Yes,Acer,No,8,8,HDD,Intel,i5,Windows 10
+87990,4.4,No,Apple,No,10,8,SSD,Intel,i5,Mac
+88990,4.204958677685946,No,MICROSOFT,Yes,10,8,SSD,Intel,i5,Windows 10
+31990,4.204958677685946,No,Lenovo,No,7,4,HDD,Intel,i3,Windows 10
+64990,4.5,No,HP,Yes,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+92500,4.5,Yes,Dell,No,10,8,SSD,Intel,i7,Windows 10
+56990,3.5,No,Acer,No,8,8,SSD,Intel,i5,Windows 10
+77890,5.0,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+54990,4.5,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+116941,4.204958677685946,Yes,HP,No,8,8,Both,Intel,i7,Windows 10
+47700,4.2,No,Asus,Yes,10,4,SSD,Intel,i3,Windows 10
+74999,4.204958677685946,No,Dell,No,10,8,SSD,Intel,i5,Windows 10
+149890,5.0,No,Asus,Yes,10,16,SSD,Intel,i7,Windows 10
+64821,2.7,Yes,Lenovo,No,8,8,HDD,Intel,i5,Windows 10
+94890,4.5,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+154990,4.204958677685946,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+40990,4.204958677685946,No,HP,No,3,8,HDD,AMD,Ryzen 5,DOS
+34990,3.0,No,HP,No,10,4,SSD,Intel,i3,DOS
+40990,4.204958677685946,No,Asus,No,10,8,Both,Intel,i3,Windows 10
+53990,4.7,No,HP,Yes,10,8,SSD,Intel,i3,Windows 10
+34990,3.7,No,Dell,No,10,4,HDD,Intel,i3,Windows 10
+13990,3.7,No,iBall,No,Not Mentioned,4,Not Metioned,Intel,Pentium,Windows 10
+89990,3.5,No,MICROSOFT,Yes,Not Mentioned,8,SSD,Microsoft,SQ1,Windows 10
+38990,5.0,No,Lenovo,No,10,4,SSD,Intel,i3,DOS
+29990,4.2,No,Acer,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+49990,4.1,No,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+78938,4.204958677685946,Yes,Lenovo,No,Not Mentioned,8,Both,Intel,i5,Windows 10
+109990,4.6,No,Apple,No,8,8,SSD,Intel,i5,Mac
+35990,4.5,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+46990,4.204958677685946,No,Asus,No,10,8,HDD,Intel,i5,Windows 10
+68990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+59890,4.1,No,Dell,No,8,8,HDD,Intel,i5,Windows 10
+55890,4.204958677685946,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+89179,4.204958677685946,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+30799,3.6,No,Lenovo,No,Not Mentioned,4,HDD,AMD,APU,Windows 10
+54708,4.204958677685946,No,MSI,No,10,8,SSD,Intel,i3,Windows 10
+16990,3.9,No,Avita,Yes,Not Mentioned,4,Not Metioned,Intel,Celeron,Windows 10
+45990,4.204958677685946,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 5,Windows 10
+61490,4.204958677685946,No,Asus,No,10,4,HDD,Intel,i5,Windows 10
+62699,4.204958677685946,No,Asus,No,10,8,HDD,Intel,i5,Windows 10
+61990,4.2,Yes,Acer,No,8,8,HDD,Intel,i5,Windows 10
+99890,4.0,No,MICROSOFT,Yes,10,8,SSD,Intel,i5,Windows 10
+75990,4.3,Yes,Asus,No,10,8,HDD,Intel,i7,DOS
+85031,3.7,No,Asus,Yes,8,8,SSD,Intel,i7,Windows 10
+64990,4.3,Yes,Acer,No,10,16,SSD,Intel,i5,Windows 10
+79990,4.204958677685946,No,Nexstgo,No,8,8,SSD,Intel,i5,Windows 10
+41890,4.204958677685946,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 5,Windows 10
+59990,4.1,Yes,Acer,No,10,8,SSD,Intel,i5,Windows 10
+30990,4.0,No,Dell,No,10,4,HDD,Intel,i3,Linux/Ubuntu
+104998,4.204958677685946,Yes,Lenovo,No,10,8,Both,Intel,i7,Windows 10
+29900,3.7,No,HP,Yes,Not Mentioned,4,Not Metioned,Intel,Celeron,Mac
+89990,4.204958677685946,Yes,MSI,No,7,8,Both,Intel,i7,Windows 10
+65990,4.2,No,Acer,No,10,16,SSD,Intel,i5,Windows 10
+56985,4.204958677685946,No,Asus,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+34990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+69500,1.6,Yes,Dell,Yes,5,8,HDD,Intel,i5,Windows 10
+54990,4.3,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+69990,4.204958677685946,No,Asus,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+61990,4.1,Yes,Acer,No,8,8,HDD,Intel,i5,Windows 10
+127990,4.204958677685946,No,MICROSOFT,Yes,8,8,SSD,Intel,i7,Windows 10
+85990,4.204958677685946,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+79990,4.0,No,Acer,Yes,7,8,SSD,Intel,i7,Windows 10
+79990,3.5,Yes,MSI,No,7,8,HDD,Intel,i7,Windows 10
+83990,4.204958677685946,Yes,Asus,No,10,8,HDD,Intel,i5,Windows 10
+282998,4.204958677685946,Yes,Lenovo,No,10,16,SSD,Intel,i9,Windows 10
+29990,4.2,No,Lenovo,No,Not Mentioned,4,SSD,Intel,Celeron,Windows 10
+52990,3.5,No,Smartron,Yes,7,4,SSD,Intel,i5,Windows 10
+19990,3.5,No,Acer,No,Not Mentioned,4,Not Metioned,Intel,Celeron,Mac
+109990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+92187,4.204958677685946,No,Dell,Yes,10,8,SSD,Intel,i7,Windows 10
+34990,3.5,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+229990,4.6,Yes,Asus,No,Not Mentioned,32,SSD,AMD,Not Metioned,Windows 10
+73990,4.204958677685946,No,Avita,No,7,8,SSD,Intel,i5,Windows 10
+59990,4.4,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+24500,4.6,No,Asus,No,Not Mentioned,4,HDD,Intel,Celeron,Windows 10
+42990,4.204958677685946,No,Asus,No,10,4,SSD,Intel,i3,Windows 10
+59900,4.204958677685946,No,HP,No,8,8,SSD,Intel,i5,Windows 10
+68990,4.204958677685946,No,Asus,No,10,8,Both,Intel,i5,Windows 10
+56990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+188499,4.204958677685946,No,Lenovo,Yes,10,16,SSD,Intel,i7,Windows 10
+75990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+55490,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+62990,4.0,No,Vaio,No,8,8,SSD,Intel,i5,Windows 10
+26990,3.9,No,Lenovo,No,6,4,HDD,Intel,i3,Windows 10
+24990,3.4,No,HP,No,3,4,HDD,AMD,Athlon,Windows 10
+82990,4.6,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+57990,4.5,Yes,Acer,No,10,8,SSD,Intel,i5,Windows 10
+46990,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i3,Windows 10
+38990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+52990,4.204958677685946,No,Avita,No,7,8,SSD,Intel,i5,Windows 10
+62999,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+31990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+40990,4.204958677685946,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 3,Windows 10
+73990,4.204958677685946,No,Avita,No,7,8,SSD,Intel,i5,Windows 10
+67500,4.204958677685946,Yes,Acer,No,9,8,HDD,Intel,i5,Windows 10
+109999,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+59990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+43390,3.5,No,Asus,No,Not Mentioned,8,HDD,AMD,Ryzen 5,Windows 10
+59990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+75990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+83113,4.204958677685946,No,MSI,No,10,8,SSD,Intel,i7,Windows 10
+45890,4.2,No,Acer,No,8,4,SSD,Intel,i3,Windows 10
+34990,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+53990,4.204958677685946,No,Acer,No,10,8,SSD,Intel,i5,Windows 10
+53990,4.3,No,Asus,No,8,8,Both,Intel,i3,Windows 10
+33999,4.204958677685946,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+75999,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i5,Windows 10
+42999,4.204958677685946,No,Lenovo,No,10,4,SSD,Intel,i5,DOS
+59990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+63000,4.3,No,Dell,No,10,8,Both,Intel,i5,Windows 10
+91990,3.8,No,Dell,Yes,8,8,SSD,Intel,i5,Windows 10
+47999,4.204958677685946,No,Lenovo,No,8,4,HDD,Intel,i5,DOS
+55990,3.6,No,Avita,No,8,8,SSD,Intel,i5,Windows 10
+55490,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+50990,4.3,No,Dell,Yes,10,4,SSD,Intel,i3,Windows 10
+55990,3.6,No,Avita,No,8,8,SSD,Intel,i5,Windows 10
+84990,4.204958677685946,Yes,Lenovo,No,9,8,SSD,Intel,i5,Windows 10
+73900,4.4,Yes,Dell,No,10,8,Both,Intel,i5,Windows 10
+55490,4.2,No,Avita,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+42990,4.204958677685946,No,Avita,No,10,8,SSD,Intel,i5,Windows 10
+32390,3.9,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+35900,4.3,No,Asus,No,10,8,HDD,Intel,i3,Windows 10
+59990,4.204958677685946,No,Avita,No,8,8,SSD,Intel,i7,Windows 10
+35890,3.6,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+26490,3.9,No,Asus,No,Not Mentioned,4,HDD,Intel,Pentium,Windows 10
+63500,4.204958677685946,Yes,Dell,No,10,8,Both,Intel,i5,Windows 10
+55000,4.204958677685946,No,HP,No,3,8,Both,AMD,Ryzen 5,Windows 10
+33400,3.4,No,Asus,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+76999,4.5,No,Lenovo,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+76500,5.0,No,Lenovo,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+55990,3.6,No,Avita,No,8,8,SSD,Intel,i5,Windows 10
+76045,4.4,No,HP,No,10,8,Both,Intel,i5,Windows 10
+92490,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i7,Windows 10
+79990,4.5,Yes,MSI,No,9,8,SSD,Intel,i7,Windows 10
+23480,4.1,No,Asus,No,Not Mentioned,4,SSD,Intel,Celeron,Windows 10
+35590,4.0,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+52000,4.1,No,HP,No,10,8,Both,Intel,i3,Windows 10
+67000,4.3,No,HP,No,10,8,SSD,Intel,i5,Windows 10
+74400,4.204958677685946,Yes,Dell,No,9,8,SSD,Intel,i5,Windows 10
+69190,4.4,Yes,Dell,No,10,8,Both,Intel,i5,Windows 10
+54500,4.204958677685946,No,Lenovo,Yes,10,8,SSD,Intel,i3,Windows 10
+65000,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+72500,4.5,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+79800,4.5,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+45500,4.6,No,Lenovo,No,10,4,SSD,Intel,i3,Windows 10
+90990,4.4,Yes,Lenovo,No,10,8,SSD,Intel,i7,Windows 10
+48749,4.4,No,Lenovo,Yes,10,4,SSD,Intel,i3,Windows 10
+29999,4.204958677685946,No,HP,No,Not Mentioned,4,HDD,AMD,Not Metioned,Windows 10
+36000,4.1,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+163000,4.6,Yes,HP,Yes,10,16,SSD,Intel,i7,Windows 10
+79000,4.5,Yes,HP,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+69999,4.3,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+45990,3.6,No,Lenovo,No,10,4,HDD,Intel,i5,Windows 10
+76990,4.204958677685946,Yes,Dell,Yes,10,8,SSD,Intel,i5,Windows 10
+98000,4.204958677685946,Yes,Dell,No,10,16,Both,Intel,i7,Windows 10
+189990,4.204958677685946,Yes,HP,Yes,10,16,SSD,Intel,i7,Windows 10
+65000,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,DOS
+98000,4.6,Yes,HP,No,10,8,SSD,Intel,i7,Windows 10
+51297,4.3,No,HP,Yes,8,8,Not Metioned,Intel,i3,Mac
+46000,3.7,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+43500,4.0,No,HP,No,10,4,HDD,Intel,i3,Windows 10
+42000,3.8,No,HP,No,10,4,HDD,Intel,i3,Windows 10
+32999,4.204958677685946,No,Lenovo,No,10,4,HDD,Intel,i3,DOS
+32955,4.2,No,HP,No,7,4,HDD,Intel,i3,DOS
+43781,4.3,No,HP,No,8,8,HDD,Intel,i3,Windows 10
+68900,4.5,Yes,HP,No,8,8,SSD,Intel,i5,Windows 10
+74999,4.204958677685946,No,Lenovo,No,10,8,HDD,Intel,i5,Windows 10
+66500,4.4,No,HP,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+79999,4.1,Yes,HP,No,10,8,Both,Intel,i5,Windows 10
+64990,4.3,Yes,HP,No,8,8,HDD,Intel,i5,Windows 10
+60000,4.204958677685946,No,Asus,No,10,8,SSD,Intel,i5,Windows 10
+84599,4.7,Yes,Lenovo,Yes,10,8,SSD,Intel,i5,Windows 10
+69990,3.9,Yes,Acer,No,Not Mentioned,8,Both,AMD,Ryzen 5,Windows 10
+25990,4.0,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+75990,3.8,Yes,Acer,No,10,16,SSD,Intel,i7,Windows 10
+39990,3.7,No,HP,No,10,4,HDD,Intel,i3,Windows 10
+64990,4.0,No,Acer,Yes,10,8,SSD,Intel,i5,Windows 10
+39990,4.1,No,Avita,No,10,8,SSD,Intel,i5,Windows 10
+62990,3.6,No,Avita,No,10,16,SSD,Intel,i7,Windows 10
+66990,4.1,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+52069,4.1,No,HP,No,10,8,HDD,Intel,i3,Windows 10
+57990,4.1,No,Vaio,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+37790,4.204958677685946,No,Dell,No,10,4,HDD,Intel,i3,Windows 10
+26490,3.6,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Athlon,DOS
+51000,4.204958677685946,No,Asus,No,10,8,Both,Intel,i5,Windows 10
+47990,3.8,Yes,Acer,No,10,8,HDD,Intel,i5,Windows 10
+34590,3.9,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+86990,3.9,Yes,Dell,No,Not Mentioned,8,SSD,AMD,Ryzen 7,Windows 10
+62594,4.0,Yes,Lenovo,No,8,4,HDD,Intel,i5,Windows 10
+94990,4.204958677685946,No,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+75890,3.8,No,HP,Yes,10,8,SSD,Intel,i5,Windows 10
+28990,3.6,No,Lenovo,No,Not Mentioned,4,HDD,AMD,Ryzen 3,DOS
+104990,4.204958677685946,Yes,Asus,Yes,10,8,SSD,Intel,i5,Windows 10
+70890,3.7,No,Acer,No,8,8,SSD,Intel,i5,Windows 10
+64196,4.204958677685946,No,Asus,No,8,8,HDD,Intel,i5,Windows 10
+21999,3.6,No,HP,No,Not Mentioned,4,HDD,AMD,Athlon,Windows 10
+39940,3.0,No,Dell,No,10,8,HDD,Intel,i3,Windows 10
+41990,4.204958677685946,No,Lenovo,No,7,4,HDD,Intel,i3,Windows 10
+30490,3.3,No,Dell,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+36890,3.7,No,Dell,No,8,4,HDD,Intel,i3,Windows 10
+47350,4.204958677685946,No,Dell,Yes,10,4,SSD,Intel,i3,Windows 10
+61190,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i5,Windows 10
+113990,4.4,No,Apple,No,8,8,SSD,Intel,i5,Mac
+20990,3.4,No,Acer,No,7,4,Not Metioned,Intel,Celeron,Mac
+31890,2.0,No,Lenovo,No,10,4,SSD,Intel,i3,DOS
+32990,3.3,No,Asus,No,10,4,HDD,Intel,i3,Windows 10
+229990,4.204958677685946,Yes,MSI,No,10,16,SSD,Intel,i7,Windows 10
+55000,4.204958677685946,No,Dell,No,10,8,HDD,Intel,i5,Windows 10
+116500,3.6,Yes,HP,No,10,16,SSD,Intel,i7,Windows 10
+51930,4.1,No,HP,No,7,8,HDD,Intel,i5,Windows 10
+86500,4.204958677685946,Yes,Lenovo,No,10,16,Both,Intel,i5,Windows 10
+75900,4.204958677685946,No,Asus,No,10,16,Both,Intel,i5,Windows 10
+61373,4.3,No,HP,No,8,8,HDD,Intel,i5,Windows 10
+46990,3.4,Yes,Acer,No,7,8,HDD,Intel,i5,Windows 10
+49990,4.0,No,Asus,No,8,8,SSD,Intel,i5,Windows 10
+69450,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i7,Windows 10
+76999,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+44097,4.2,No,HP,No,8,8,HDD,Intel,i5,Windows 10
+37990,3.2,No,HP,No,10,4,HDD,Intel,i3,DOS
+59990,3.3,No,Dell,No,8,8,SSD,Intel,i5,Windows 10
+89799,4.4,No,Lenovo,Yes,10,8,SSD,Intel,i5,Windows 10
+20900,3.9,No,HP,No,Not Mentioned,4,HDD,AMD,APU,DOS
+32917,4.0,No,HP,No,Not Mentioned,4,HDD,AMD,Ryzen 3,Windows 10
+49279,4.5,Yes,HP,No,7,8,HDD,Intel,i3,Windows 10
+182999,4.204958677685946,No,Lenovo,Yes,10,16,SSD,Intel,i7,Windows 10
+50000,4.1,No,Lenovo,No,Not Mentioned,8,HDD,AMD,Ryzen 5,DOS
+51400,4.204958677685946,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+84000,4.204958677685946,Yes,Dell,No,10,8,SSD,Intel,i7,DOS
+34688,4.1,No,HP,No,7,4,HDD,Intel,i3,Windows 10
+42990,3.7,No,Smartron,Yes,7,4,SSD,Intel,m3,Windows 10
+28462,4.1,No,HP,No,Not Mentioned,4,SSD,AMD,APU,Windows 10
+31808,4.1,No,HP,No,7,4,HDD,Intel,i3,DOS
+85600,4.1,Yes,Lenovo,No,8,8,HDD,Intel,i7,Windows 10
+28250,4.1,No,HP,No,Not Mentioned,4,HDD,AMD,APU,Windows 10
+35585,3.9,No,HP,No,7,4,HDD,Intel,i3,Windows 10
+77000,4.4,Yes,Lenovo,No,8,8,SSD,Intel,i5,Windows 10
+88500,4.204958677685946,Yes,Asus,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+35811,4.3,No,HP,No,7,8,SSD,Intel,i3,Windows 10
+94000,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i7,Windows 10
+88999,4.204958677685946,Yes,Lenovo,No,10,8,Both,Intel,i5,Windows 10
+31414,4.1,No,HP,No,Not Mentioned,4,HDD,AMD,APU,Windows 10
+50922,4.2,Yes,HP,No,7,8,HDD,Intel,i3,Windows 10
+195990,4.204958677685946,Yes,Asus,No,10,32,SSD,Intel,i7,Windows 10
+98000,4.204958677685946,No,HP,Yes,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+161500,4.204958677685946,No,HP,Yes,10,16,Both,Intel,i7,Windows 10
+69990,4.0,Yes,HP,Yes,8,8,Both,Intel,i5,Windows 10
+64990,4.0,No,Acer,Yes,8,8,SSD,Intel,i5,Windows 10
+63500,4.204958677685946,No,HP,No,8,8,Both,Intel,i5,Windows 10
+103828,4.1,Yes,HP,No,7,8,Both,Intel,i7,Windows 10
+41490,4.3,No,Asus,No,Not Mentioned,4,SSD,AMD,Ryzen 5,Windows 10
+119990,2.5,No,Lenovo,No,10,16,SSD,Intel,i7,Windows 10
+54238,4.4,No,HP,Yes,8,4,SSD,Intel,i3,Windows 10
+61745,4.5,No,HP,Yes,8,8,Not Metioned,Intel,i5,Mac
+138500,4.204958677685946,Yes,HP,No,8,8,SSD,Intel,i5,Windows 10
+37990,4.2,No,HP,No,7,4,SSD,Intel,i3,Windows 10
+57990,4.204958677685946,Yes,Asus,No,10,8,SSD,Intel,i5,Windows 10
+46200,4.1,Yes,HP,No,7,4,HDD,Intel,i5,DOS
+24749,3.9,No,Asus,No,Not Mentioned,4,HDD,Intel,Celeron,Windows 10
+52990,4.0,No,Smartron,Yes,7,4,SSD,Intel,i5,Windows 10
+38950,2.5,No,HP,No,10,4,HDD,Intel,i3,Windows 10
+104000,4.4,Yes,Lenovo,No,7,8,Both,Intel,i7,Windows 10
+78999,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+39999,3.9,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+76300,4.204958677685946,No,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+27490,3.3,No,Asus,No,Not Mentioned,4,HDD,AMD,Athlon,Windows 10
+72990,3.3,No,Dell,No,10,8,Both,Intel,i5,Windows 10
+58999,4.204958677685946,Yes,Lenovo,No,7,4,HDD,Intel,i5,Windows 10
+60500,4.3,Yes,Dell,No,8,8,Both,Intel,i5,Windows 10
+56000,4.3,No,HP,No,10,8,SSD,Intel,i5,Windows 10
+32999,3.4,No,Lenovo,No,10,4,HDD,Intel,i3,Windows 10
+74990,3.3,Yes,HP,No,8,8,Both,Intel,i5,Windows 10
+31999,3.3,No,Lenovo,No,10,4,HDD,Intel,i3,DOS
+128999,4.0,No,Lenovo,Yes,8,8,SSD,Intel,i7,Windows 10
+53990,4.204958677685946,No,HP,No,10,8,HDD,Intel,i5,Windows 10
+85999,4.3,Yes,Lenovo,No,10,8,SSD,Intel,i5,Windows 10
+44599,4.1,No,HP,No,7,4,HDD,Intel,i5,Windows 10
+77000,4.204958677685946,No,AGB,No,7,16,Both,Intel,i7,Windows 10
+92999,4.204958677685946,Yes,AGB,No,7,32,Both,Intel,i7,Windows 10
+55000,4.204958677685946,Yes,Lenovo,No,6,4,HDD,Intel,i5,Windows 10
+24000,4.204958677685946,No,Dell,No,4,16,HDD,Intel,Pentium,Windows 8
+82000,4.204958677685946,Yes,AGB,No,7,16,Both,Intel,i7,Windows 10
+76012,4.3,No,HP,No,8,8,SSD,Intel,i5,Windows 10
+55729,4.3,Yes,HP,No,8,8,HDD,Intel,i5,DOS
+12999,4.4,No,LAVA,No,Not Mentioned,2,HDD,Not Metioned,Not Metioned,Windows 10
+115185,4.204958677685946,No,Dell,No,8,16,SSD,Intel,i7,Windows 10
+245999,4.204958677685946,No,HP,Yes,7,16,SSD,Intel,i7,Windows 10
+61715,2.8,No,HP,No,7,4,HDD,Intel,i3,Windows 10
+63500,4.0,Yes,HP,No,7,4,HDD,Intel,i5,Windows 10
+144990,4.204958677685946,Yes,Asus,No,Not Mentioned,16,SSD,AMD,Not Metioned,Windows 10
+158990,4.204958677685946,Yes,Asus,Yes,10,16,SSD,Intel,i7,Windows 10
+49999,4.2,No,Dell,No,Not Mentioned,8,SSD,AMD,Ryzen 5,Windows 10
+49999,4.3,No,Dell,No,10,8,SSD,Intel,i3,Windows 10
