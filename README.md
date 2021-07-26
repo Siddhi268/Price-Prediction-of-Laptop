@@ -16,7 +16,8 @@ This is the Flipkart website comprising of different laptops. This page contains
 6.OS	
 7.Storage	
 8.Display	
-9.Warranty
+9.Warranty.
+
 So we extract the data from 30 pages so our dataset now consists of the information the 709 different laptops.
 
 ## Feature Engineering
