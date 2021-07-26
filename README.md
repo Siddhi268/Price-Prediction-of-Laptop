@@ -1,8 +1,11 @@
 # Price-Prediction-of-Laptop
 
 1.Designed a web app that predicts the price of the laptop given the configurations.
+
 2.Scraped the laptops data from flipkart.com using python and BeautifulSoup package.
+
 3.Developed Linear, Random Forest Regressors, and XGBoost Regressors model and also XGBoost with GridsearchCV to get the best model.
+
 4.Deployed the Machine Learning model using streamlit library
 
 ## Web Scraping
