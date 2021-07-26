@@ -11,14 +11,14 @@
 ## Web Scraping
 This is the Flipkart website comprising of different laptops. This page contains the specifications of 24 laptops. So now looking at this, we try to extract the different features of the laptops such as:
 
-1.Title	
-2.Price	
-3.Rating	
-4.Processors	
-5.RAM	
-6.OS	
-7.Storage	
-8.Display	
+1.Title.
+2.Price.	
+3.Rating.	
+4.Processors.	
+5.RAM.	
+6.OS.	
+7.Storage.	
+8.Display.	
 9.Warranty.
 
 So we extract the data from 30 pages so our dataset now consists of the information the 709 different laptops.
