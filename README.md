@@ -4,7 +4,7 @@
 
 2.Scraped the laptops data from flipkart.com using python and BeautifulSoup package.
 
-3.Developed Linear, Random Forest Regressors, and XGBoost Regressors model and also XGBoost with GridsearchCV to get the best model.
+3.Developed Linear, Random Forest Regressors, and XGBoost Regressors model and also used XGBoost with GridsearchCV to get the best model.
 
 4.Deployed the Machine Learning model using streamlit library
 
