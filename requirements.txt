@@ -8,6 +8,7 @@ numpy>=1.9.2
 joblib>=0.16.0
 matplotlib>=1.4.3
 pandas>=0.19
+scikit_learn>=0.23.1
 flasgger==0.9.4
 seaborn==0.10.1
 emoji==0.5.4
