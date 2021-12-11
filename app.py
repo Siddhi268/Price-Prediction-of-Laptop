@@ -4,10 +4,10 @@ import numpy as np
 import pandas as pd
 import sklearn
 
-df = pd.read_csv("C:\\Users\\HP\\Desktop\\Assignment\\laptops2.csv")
+df = pd.read_csv("./laptops2.csv")
 st.title('Laptop Prices Predictor')
 
-model = joblib.load('model1.pkl')
+model = joblib.load('./model1.pkl')
 
 st.markdown( "## All the fields are mandatory.")
 st.subheader('Laptop Details:')
