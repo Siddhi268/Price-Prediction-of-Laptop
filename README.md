@@ -42,10 +42,13 @@ I have deployed the app using Streamlit library.
 
 1.Landing Page:
 
+
 ![landing1](https://user-images.githubusercontent.com/73767113/145679109-aee917c5-7d92-432e-96db-d6e5cc15ed5a.jpg)
 
 
 2.Laptop Price Prediction Page:
+
+
 
 ![price_prediction_app](https://user-images.githubusercontent.com/73767113/145679124-124fd71a-39bc-4f47-997f-fa138519d76f.jpg)
 
